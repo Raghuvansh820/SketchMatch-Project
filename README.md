@@ -1,4 +1,4 @@
-# SketchMatch-Project# Sketch Match: Image Retrieval System  
+# Sketch Match: Image Retrieval System  
 ![FEATURING MATCHING](https://github.com/user-attachments/assets/11f55d4d-1ef0-4ba0-8132-2f9838c5f1e8)
 ![FIXED IMG](https://github.com/user-attachments/assets/f11860fa-0124-4005-9b2d-4e66127cab92)
 
